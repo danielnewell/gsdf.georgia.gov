@@ -4,31 +4,48 @@ title: Leadership
 description: Leadership
 sitemap:
   priority: 0.7
-  lastmod: 2021-10-08
+  lastmod: 2025-12-17
   changefreq: yearly
 redirect_from:
   - /pages/leadership/
 ---
 # Current Leadership
 
-<div class="box alt">
-    <div class="row 50% ">
-        <div class="6u">
-            <p><strong>Brigadier General Dennis Watts</strong><br />
-            GSDF Commanding General</p>
-        <span class="image fit"><img src="{{ "/images/cropped_gen_watts2.png" | absolute_url }}" alt="Commanding General Brig. Gen. Dennis Watts" /></span>
-        </div>
-        <div class="6u$">
-            <p><strong>Command Sergeant Major Robert Bayne</strong><br />
-            GSDF Command Sergeant Major</p>
-        <span class="image fit"><img src="{{ "/images/cropped_csm_bayne.png" | absolute_url }}" alt="Command Sgt. MAJ Robert Bayne" /></span>
-        </div>
-    </div>
+<div class="leadership-row">
+  <div class="leader">
+    <img src="/images/leadership/gsdf/governor.jpg" alt="Gov. Brian Kemp">
+    <strong>Governor Brian Kemp</strong><br>
+    <em>Commander in Chief</em>
+  </div>
+  <div class="leader">
+    <img src="/images/leadership/gsdf/tag.jpg" alt="MG Richard Wilson">
+    <strong>Maj. Gen. Richard. D. WIlson</strong><br>
+    <em>Adjunant General</em>
+  </div>
+    <div class="leader">
+    <img src="/images/cropped_gen_watts2.png" alt="BG Dennis Watts">
+    <strong>Brig. Gen. Dennis Watts</strong><br>
+    <em>GSDF Commanding General</em>
+  </div>
 </div>
+
+<div class="leadership-row">
+  <div class="leader">
+    <img src="/images/leadership/gsdf/sea.jpg" alt="CSM Matthew Marks">
+    <strong>Command Sgt. Maj. Matthew Marks</strong><br>
+    <em>Senior Enlisted Advisor</em>
+  </div>
+  <div class="leader">
+    <img src="/images/cropped_csm_bayne.png" alt="CSM Robert Bayne">
+    <strong>Command Sgt. Maj. Robery Bayne</strong><br>
+    <em>GSDF Command Sergeant Major</em>
+  </div>
+</div>
+
 
 - - - 
 
-## Commanding Generals
+## Previous Commanding Generals of the Georgia State Defense Force
 
 |                               |                             |
 | ----------------------------- | --------------------------- |
