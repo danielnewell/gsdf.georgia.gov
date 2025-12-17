@@ -9,8 +9,8 @@ sitemap:
 redirect_from:
   - /pages/leadership/
 ---
-# Current Leadership
 
+# Current Leadership
 <div class="leadership-row">
   <div class="leader">
     <img src="/images/leadership/gsdf/governor.jpg" alt="Gov. Brian Kemp">
